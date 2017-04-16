@@ -932,10 +932,10 @@
     <string name="task_openrci_title">Building demand</string>
     <string name="task_openrci_text">In TheoTown we discriminate building demand for different building types and different levels. Building types are residential, commercial and industrial. There are three levels, poor (Ͳ), medium (ͲͲ) and rich (ͲͲͲ).</string>
     <string name="control_gotit">Got it</string>
-    <string name="task_firstcity_title">New town</string>
-    <string name="task_firstcity_text">Welcome to your first town.\n\nTry to get 300 inhabitants.</string>
+    <string name="task_firstcity_title">Nueva ciudad</string>
+    <string name="task_firstcity_text">Welcometog your first town.\n\nTry to get 300 inhabitants.</string>
     <string name="task_reachrank_title">New rank</string>
-    <string name="task_reachrank_text">Congratulations your city reached a new rank.\n\nEach rank unlocks some buildings and you get a reword.</string>
+    <string name="task_reachrank_text">Enhorabuena tu ciudad ha alcanzado un nuevo rango.\n\nCada rango desbloquea nuevos edificios y ofrece recompensas.</string>
     <string name="welcome_sorry_title">News</string>
     <string name="welcome_sorry_text">Dear player,\n\nwe recently made a lot of progress in TheoTown. Unfortunately, this wouldn\'t be possible if we didn\'t add a special currency as well as changes to game dynamics which may break some old cities.\n\nWe hope you understand. We have something as thank-you gift for you.</string>
     <string name="menu_achievements">Achievements</string>
